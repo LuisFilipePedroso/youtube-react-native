@@ -1,0 +1,31 @@
+{
+  "cars": {
+    "name": "Porsche Taycan Turbo S",
+    "shortInfo": {
+      "fuel": 476,
+      "maxSpeed": 300
+    },
+    "transmission": "Automatic",
+    "details": [
+      {
+        "subTitle":"Average Fuel",
+        "title":"Consumption",
+        "total":"12",
+        "unit":"km/l",
+        "bgColor":"#4778f3",
+        "lightBgColor":"#6ebaff",
+        "icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Line_chart_icon_Noun_70892_cc_White.svg/1200px-Line_chart_icon_Noun_70892_cc_White.svg.png"
+      },
+      {
+        "subTitle":"Engine",
+        "title":"Condition",
+        "total":"95",
+        "unit":"%",
+        "bgColor":"#000000",
+        "lightBgColor":"#c4c4c4",
+        "icon":"https://www.iconsdb.com/icons/preview/white/engine-xxl.png"
+      }
+    ],
+    "images": [{"id":"1b31fdas","url":"https://pics.porsche.com/rtt/iris?COSY-EU-100-17116bXqc6eP3Hi1qwT9HcnyInrHKxJTTPE3kUWFYRpwY4nkAH3Uko69AFcLwMQjLVYn47uPi60JemN%25nBXHcnPWf7KPbEGLfqlSPYtjN9yvN3dMGJVWL%25tFXu2LFGCg4YXyvE46jj0iD2GDcmw98gfUdGXVCofUQrQ9wASWTB8ZuuBeex5%2513XhQD9SXnAYyiIu7%25GeP3JLlVSKCvXJzdf4EY%25IoJydODmQTgf9sMN8tDR"},{"id":"2b32fdas","url":"https://pics.porsche.com/rtt/iris?COSY-EU-100-17116bXqc6eP3Hi1qwT9HcnyInrHKxJTTPE3kUWFYRpwY4nkAH3Uko69AFcLwMQjLVYn47uPi60JemN%25nBNHcnPWf7KPbEGLfqlSPYtjN9yvN3dMGJVWL%25tFXu2LFGCg4YXyvE46jj0iD2GDcmw98gfUdGXVCofUQrQ9wASWTB8ZuuBeex5%2513XhQD9SXnAYyiIu7%25GeP3JLlVSKCvXJzdf4EY%25IoJydODmQTgf9sMN8tDR"},{"id":"3b33fdas","url":"https://pics.porsche.com/rtt/iris?COSY-EU-100-17116bXqc6eP3Hi1qwT9HcnyInrHKxJTTPE3kUWFYRpwY4nkAH3Uko69AFcLwMQjLVYn47uPi60JemN%25nBhHcnPWf7KPbEGLfqlSPYtjN9yvN3dMGJVWL%25tFXu2LFGCg4YXyvE46jj0iD2GDcmw98gfUdGXVCofUQrQ9wASWTB8ZuuBeex5%2513XhQD9SXnAYyiIu7%25GeP3JLlVSKCvXJzdf4EY%25IoJydODmQTgf9sMN8tDR"},{"id":"4b43fdas","url":"https://pics.porsche.com/rtt/iris?COSY-EU-100-17116bXqc6eP3Hi1qwT9HcnyInrHKxJTTPE3kUWFYRpwY4nkAH3Uko69AFcLwMQjLVYn47uPi60JemN%25nB5HcnPWf7KPbEGLfqlSPYtjN9yvN3dMGJVWL%25tFXu2LFGCg4YXyvE46jj0iD2GDcmw98gfUdGXVCofUQrQ9wASWTB8ZuuBeex5%2513XhQD9SXnAYyiIu7%25GeP3JLlVSKCvXJzdf4EY%25IoJydODmQTgf9sMN8tDR"},{"id":"5b53fdas","url":"https://pics.porsche.com/rtt/iris?COSY-EU-100-17116bXqc6eP3Hi1qwT9HcnyInrHKxJTTPE3kUWFYRpwY4nkAH3Uko69AFcLwMQjLVYn47uPi60E8mN%25nBXHcnPWf7KPbEGLyhr6uerVN9jfsU%257yxz1M%25xj3BRLzueXRqhhZYoMjo5Jm6vBC2Njzs3wC2kak6mcEUSPvn11PbbgI7lVziko6EzFcLuYW1T7jbGVf%25dsE83ezf0NCRXL7WwfuNKoJkSBC6Q9rvyoO"}]
+  }
+}
